@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90e224f1-33ad-4e3c-8d11-80ad3b513ec8" name="Changes" comment="check_collision added">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="90e224f1-33ad-4e3c-8d11-80ad3b513ec8" name="Changes" comment="color modified" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710199607846</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="game over function added">
+      <option name="closed" value="true" />
+      <created>1710200149408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710200149408</updated>
+    </task>
+    <task id="LOCAL-00007" summary="color modified">
+      <option name="closed" value="true" />
+      <created>1710200213582</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710200213582</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +135,8 @@
     <MESSAGE value="the snake is now changing directions" />
     <MESSAGE value="the snake can now eat" />
     <MESSAGE value="check_collision added" />
-    <option name="LAST_COMMIT_MESSAGE" value="check_collision added" />
+    <MESSAGE value="game over function added" />
+    <MESSAGE value="color modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="color modified" />
   </component>
 </project>
