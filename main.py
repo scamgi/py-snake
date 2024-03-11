@@ -21,6 +21,7 @@ class Snake:
 
         for x, y in self.coordinates:
             square = canvas.create_rectangle(x, y, x + SPACE_SIZE, y + SPACE_SIZE, fill=SNAKE_COLOR, tags="snake")
+            self.squares.append(square)
     pass
 
 class Food:
