@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90e224f1-33ad-4e3c-8d11-80ad3b513ec8" name="Changes" comment="first commit">
+    <list default="true" id="90e224f1-33ad-4e3c-8d11-80ad3b513ec8" name="Changes" comment="i'm removing the initial square">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,11 +80,20 @@
       <option name="project" value="LOCAL" />
       <updated>1710196512216</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="i'm removing the initial square">
+      <option name="closed" value="true" />
+      <created>1710198651323</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710198651323</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="i'm removing the initial square" />
+    <option name="LAST_COMMIT_MESSAGE" value="i'm removing the initial square" />
   </component>
 </project>
